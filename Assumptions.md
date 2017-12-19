@@ -18,3 +18,6 @@ Way = Letters received along the way between Post-Offices
 
 Note: Way letters are grouped together, therefore the location on page not indicative of point of origin. 
 Example page with “Way letters”: https://diglib.amphilsoc.org/islandora/object/post-office-book-1748-1752#page/232/mode/2up 
+
+## Currency and Weight Values
+Letters marked “free” or “paid” are either official correspondence approved beforehand, or correspondence from or to a postmaster, a system known as franking,  https://en.wikipedia.org/wiki/Franking.
