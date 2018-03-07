@@ -14,3 +14,5 @@ See Assumptions.md
 
 ## What these datasets are not
 This is not a replacement for viewing the original postal records. Care was taken to minimize mistakes and inconsistencies while creating these datasets, but it being offered "as is". Despite the best efforts of all involved, mistakes often occur during the creation of datasets. Scholars are encouraged to consult the original record, in digital or physical format. A digitized version of the post office book (along with the datasets) is available on the APS Digital Library: https://diglib.amphilsoc.org/islandora/compound/franklin-post-office-book-1748-1752
+## License 
+These datasets are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), feel free to copy and redistribute the material in any medium or format; go ahead and remix, transform, and build upon the material for any purpose. We just ask that you attribute the APS Library. 
