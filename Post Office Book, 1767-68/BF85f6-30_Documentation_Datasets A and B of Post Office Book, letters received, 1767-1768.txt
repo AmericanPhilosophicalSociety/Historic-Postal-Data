@@ -1,0 +1,56 @@
+﻿Dataset documentation: Datasets A and B of Post Office Book, letters received, 1767-1768 (BF85f6-30)
+
+---
+Document type: Dataset
+
+Dataset identifier: BF85f6-30
+
+File format: CSV
+
+Abstract: "These printed forms were filled in in manuscript and list the letters received from other colonial post offices or from ships in the Philadelphia Post Office by Postmaster Thomas Foxcroft."
+
+Time Period, Start Date of Data Coverage: 1767
+Time Period, End Date of Data Coverage: 1768
+
+Date of this Version: November 2019
+
+Source(s):
+Item title: Post Office Book, letters received, 1767-1768
+Item collection: Miscellaneous Benjamin Franklin Collections, American Philosophical Society.
+Item call number: B F85f6.30
+Finding aid: https://search.amphilsoc.org/collections/view?docId=ead/Mss.B.F85.misc-ead.xml
+Digital surrogate location: https://diglib.amphilsoc.org/islandora/object/text:235463
+
+Data description:
+Dataset A contains the bulk of the data derived from this book. Each row has been assigned a numerical ID to allow sorting while preserving the data's context.
+
+Dataset B consists of totals by category and weight, written at the bottom of each page of the volume. This data was separated from Dataset A during the transcription process.
+
+All measurements of weight appear in pennyweight (abbreviated Dwt.) and grains (abbreviated Grs.). This unit of mass ("Troy weight") was commonly used in Great Britain until 1878. One dwt. is equal to 24 grs.
+
+Damage and Lost Data:
+Because some of this volume's pages are damaged or missing, special care has been taken to allow users to filter out incomplete data if they so wish. Each row in Dataset A indicates the completeness of the data (complete, partial, or lost). Obscured or missing values are indicated by the text string "null" in both datasets. Damage to the page is also described in the Transcriber's Notes column of Dataset A.
+
+Assumptions:
+Dittos (Do.) are silently corrected and assumed to refer to the information in the above row. Where there was a missing date in Date of the Bills Received column, it is assumed to be an excluded ditto. The only exception is when the letters received are from a Ship; Ship letters are never given a date of receipt in this volume. This volume was unbound, and page order has been assumed based on inference of logical date progression.
+
+Normalization and Data Standards:
+Date is separated into year, month, date. Offices' names are generally not normalized, unless damage, foxing, and ink stains make some letters difficult to interpret. Dataset A was run through OpenRefine and light cell clustering was performed.
+
+Related Datasets:
+BF85f6-8; BF85f6-11a; BF85f6-11b; BF85f6-11c; BF85f6-12; BF85f6-13; BF85f6-14; BF85f6-30; BF85f6-31; BF85-LXVII113; BF85-LXVII114; BF85ba-1744 
+
+License:
+These datasets are available for anyone to evaluate, share, reuse, and remix as they wish under a Creative Commons Attribution 4.0 License. Please attribute APS Library & Museum.
+
+Caveat Emptor:
+These datasets were created as part of the American Philosophical Society's Open Data Initiative (Learn more at http://diglib.amphilsoc.org/data).
+Although contributors took care to minimize mistakes and inconsistencies in the creation of these items, and have included any assumptions or choices made on their part that may affect interoperability or integrity of the data, APS cannot guarantee that they are free of instances of human error. They are offered "as is," and researchers are encouraged to consult the original records in digital or physical format in the event of uncertainty. If you have feedback or notice errors in the data, please contact us at digitalprojects@amphilsoc.org.
+
+Preferred Citation:
+Chicago (16th ed., bibliography): Farrell, Bethany, and Molly Shannon. Post Office Book, Letters Received, 1767-1768. BF85f6-30. Edited by Cynthia Heider. Distributed by Philadelphia: American Philosophical Society Library & Museum, 2019. [url]
+
+Process:
+Phase One, June-August 2019: Digitization and initial transcription by Molly Shannon (Washington College Explore America Intern) at APS.
+Phase Two, September-November 2019: Data cleanup, restructuring, and refinement in OpenRefine and Excel by Bethany Farrell (Digital Franklin Fellow) at APS.
+Phase Three, November 2019: Documentation created. Datasets edited for clarity and uploaded to APS Digital Library by Cynthia Heider.

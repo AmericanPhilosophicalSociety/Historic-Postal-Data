@@ -1,0 +1,51 @@
+Dataset documentation: Datasets A, B, and C of Post Office Record Book No. 3, 1743 (BF85f6-11c)
+
+---
+Document type: Dataset
+
+Dataset identifier: BF85f6-11c
+
+File format: CSV
+
+Abstract: "'Post Office Accounts drawn out Nov. 1743' is a small volume of ca. 50 pages. It contains a list of names with amounts due with notes as to letters delivered, paid, etc. The names are abstracted from Post Office Ledger, No. 2 [B F85f6.11b]"
+
+Time Period, Start Date of Data Coverage: 1743-11-16
+Time Period, End Date of Data Coverage: 1743-11-16
+
+Date of this Version: November 2019
+
+Source(s):
+Item title: Post Office Book Record Book No. 3, 1743
+Item collection: Miscellaneous Benjamin Franklin Collections, American Philosophical Society.
+Item call number: B F85f6.11c
+Finding aid: https://search.amphilsoc.org/collections/view?docId=ead/Mss.B.F85.misc-ead.xml
+Digital surrogate location: https://diglib.amphilsoc.org/islandora/object/text:190162
+
+Data description:
+Dataset A contains the bulk of the data derived from this book. Each row has been assigned a numerical ID to allow sorting while preserving the data's context.
+
+Dataset B consists of totals by monetary amount in Pounds, Shillings, Pence, which were written at the bottom of each page of the volume. This data was separated from Dataset A during the transcription process.
+
+Assumptions:
+Dittos (Do.) are silently corrected and assumed to refer to the information in the above row. 
+
+Normalization and Data Standards:
+Names of account holders are split into title, first name, last name. Accounts for companies are entered under last name. Date is separated into year, month, date. Amount due monetary denominations are split into Pounds, Shilling, Pence.
+
+Related Datasets:
+BF85f6-8; BF85f6-11a; BF85f6-11b; BF85f6-12; BF85f6-13; BF85f6-14; BF85f6-30; BF85f6-31; BF85-LXVII113; BF85-LXVII114; BF85ba-1744 
+
+License:
+These datasets are available for anyone to evaluate, share, reuse, and remix as they wish under a Creative Commons Attribution 4.0 License. Please attribute APS Library & Museum.
+
+Caveat Emptor:
+These datasets were created as part of the American Philosophical Society's Open Data Initiative (Learn more at http://diglib.amphilsoc.org/data).
+Although contributors took care to minimize mistakes and inconsistencies in the creation of these items, and have included any assumptions or choices made on their part that may affect interoperability or integrity of the data, APS cannot guarantee that they are free of instances of human error. They are offered "as is," and researchers are encouraged to consult the original records in digital or physical format in the event of uncertainty. If you have feedback or notice errors in the data, please contact us at digitalprojects@amphilsoc.org.
+
+Preferred Citation:
+Chicago (16th ed., bibliography): Farrell, Bethany, and Molly Shannon. Post Office Record Book No. 3, 1743, BF85f6-11c. Edited by Cynthia Heider. Distributed by Philadelphia: American Philosophical Society Library & Museum, 2019. https://diglib.amphilsoc.org/islandora/object/compound:55
+
+Process:
+Phase One, June-August 2019: Digitization and initial transcription by Molly Shannon (Washington College Explore America Intern) at APS.
+Phase Two, September-November 2019: Data cleanup, restructuring, and refinement in OpenRefine and Excel by Bethany Farrell (Digital Franklin Fellow) at APS.
+Phase Three, November 2019: Documentation created. Datasets edited for clarity and uploaded to APS Digital Library by Cynthia Heider.

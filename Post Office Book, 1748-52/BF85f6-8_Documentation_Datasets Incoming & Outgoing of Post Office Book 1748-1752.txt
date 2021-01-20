@@ -1,0 +1,57 @@
+﻿Dataset documentation: Datasets (Incoming) and (Outgoing) of Post Office Book, 1748-1752 (BF85f6-8)
+
+---
+Document type: Dataset
+
+Dataset identifier: BF85f6-8
+
+File format: CSV
+
+Abstract: "These datasets are created from a volume of 372 pages that records receipt and dispatch of all mail in the Philadelphia Post Office between May 25, 1748 and July 23, 1752. Deliveries into the Post Office from out of town were listed, letter by letter, by the names of the addressees, weight and amount due, paid or free. Outgoing mail was simply listed by number of sheets and weight, not by individual letters. The data is presented here in two sets, one for incoming and one for outgoing. The records were kept during Benjamin Franklin's tenure as Postmaster of Philadelphia."
+
+Time Period, Start Date of Data Coverage: 5-25-1748
+Time Period, End Date of Data Coverage: 7-23-1752
+
+Date of this Version: 2017
+
+Source(s):
+Item title: Post Office Book, 1748-1752
+Item collection: Miscellaneous Benjamin Franklin Collections, American Philosophical Society.
+Item call number: B F85f6.8
+Finding aid: https://search.amphilsoc.org/collections/view?docId=ead/Mss.B.F85.misc-ead.xml
+Digital surrogate location: https://diglib.amphilsoc.org/islandora/object/text:155333
+
+Data description:
+Dataset (Incoming) details each letter coming into Philadelphia's weight, addressee, amount of money due, and whether the entry was paid or "free." It is important to note that in the 18th century, fees for mail were paid by the person who received/picked up the letter, not the one who sent it.
+
+Dataset (Outgoing) lists letters in aggregate, by weight and number of sheets of paper (single, double, treble, pacquet). These values were separated from the incoming during the transcription process.
+
+All measurements of weight appear in pennyweight (abbreviated Dwt.) and grains (abbreviated Grs.). This unit of mass ("Troy weight") was commonly used in Great Britain until 1878. One dwt. is equal to 24 grs.
+
+Measurements of currency ("Amount due" columns) are listed in Philadelphia's local currency rate based on the item's weight. Although also measured in pounds, shillings (abbreviated d.), and pence (abbreviated p.), Philadelphia's currency was not equivalent in value to British Pounds Sterling. Robert Siegel Auction Galleries suggested a 167% inflation factor to convert Pounds Sterling into Philadelphia currency (see https://siegelauctions.com/2007/944/944.pdf page 172). Additionally, prior to 1971, monetary amounts in Great Britain were calculated differently than they are today, so care must be taken with calculations in converting contemporary values to their equivalent modern ones. Prior to that time, £1 = 20s. = 240d.
+
+Assumptions:
+Dittos (Do.) are silently corrected and assumed to refer to the information in the above row. Min. is assumed to mean "Minor," as in a differentiator between family members with the same given name.
+
+Normalization and Data Standards:
+England's colonies adopted a "New Style" calendar where years corresponded to the earth's rotation around the sun in 1752. Because this ledger overlaps that transition, years are sometimes "double dated" in "Old Style" and "New Style," especially in entries made in January, February, and March. Where double dating occured, the year was normalized to follow the "New Style" calendar. Location names have also been standardized, with the following assumptions made: NYork= New York (city); Boyd’s Hole= Boyd’s Hole, VA; Amboy= Perth Amboy, NJ; New Port= New Port/Newport, Rhode Island;
+York Town= Yorktown, Virginia (Yorktown, New York wasn’t named until the 1780s); Brunswick= New Brunswick, New Jersey (along the King’s Highway);
+Burlington= Burlington, NJ (along the King’s Highway); N London=New London, CT (along the Lower Post Road); Way= Letters received along the way between Post-Offices
+
+Related Datasets:
+BF85f6-11a; BF85f6-11b; BF85f6-11c; BF85f6-12; BF85f6-13; BF85f6-14; BF85f6-30; BF85f6-31; BF85-LXVII113; BF85-LXVII114; BF85ba-1744 
+
+License:
+These datasets are available for anyone to evaluate, share, reuse, and remix as they wish under a Creative Commons Attribution 4.0 License. Please attribute APS Library & Museum.
+
+Caveat Emptor:
+These datasets were created as part of the American Philosophical Society's Open Data Initiative (Learn more at http://diglib.amphilsoc.org/data).
+Although contributors took care to minimize mistakes and inconsistencies in the creation of these items, and have included any assumptions or choices made on their part that may affect interoperability or integrity of the data, APS cannot guarantee that they are free of instances of human error. They are offered "as is," and researchers are encouraged to consult the original records in digital or physical format in the event of uncertainty. If you have feedback or notice errors in the data, please contact us at digitalprojects@amphilsoc.org.
+
+Preferred Citation:
+Chicago (16th ed., bibliography): Heider, Cynthia, Bayard Miller and Scott Ziegler. Post Office Book, 1748-1752. BF85f6-8. Distributed by Philadelphia: American Philosophical Society Library & Museum, 2017. https://diglib.amphilsoc.org/islandora/object/compound:11.
+
+Process:
+Phase One, June 2017 - January 2018: Digitization and transcription by Cynthia Heider (Martin L. Levitt Fellow) at APS with contributions by Bayard Miller and Scott Ziegler.
+Phase Two, January 2018 - June 2018: Data cleanup, restructuring, and refinement in OpenRefine and Excel by Cynthia Heider at APS. Datasets Uploaded to the APS Digital Library, Magazine of Early American Datasets (MEAD), and APS GitHub instance.
+Phase Three, June 2018 - December 2019: Documentation created, data visualizations, essays, and project web portal created (https://diglib.amphilsoc.org/franklindata).
